@@ -1,0 +1,17 @@
+{
+  "name": "livekit-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "livekit-server-sdk": "^1.0.3",
+    "nodemon": "^2.0.20"
+  },
+  "type": "module"
+}
